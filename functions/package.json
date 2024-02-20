@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@iamtraction/google-translate": "^2.0.1",
-    "axios": "^1.6.4",
+    "axios": "^1.6.5",
     "braintree": "^2.21.0",
     "crypto": "^1.0.1",
     "crypto-js": "^4.1.1",
