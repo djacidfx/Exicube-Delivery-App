@@ -28,7 +28,7 @@
     "concurrently": "7.0.0",
     "crypto-js": "^4.1.1",
     "exicube-cli": "1.9.0",
-    "firebase-tools": "^13.0.1",
+    "firebase-tools": "^13.6.0",
     "fs-extra": "10.0.0",
     "node-fetch": "2.6.7",
     "open": "^8.4.0",
